@@ -1,0 +1,63 @@
+line 4 column 3 - Warning: <meta> lacks "content" attribute
+line 9 column 5 - Warning: unknown attribute "as"
+line 10 column 5 - Warning: unknown attribute "as"
+line 11 column 5 - Warning: unknown attribute "as"
+line 12 column 5 - Warning: unknown attribute "as"
+line 13 column 7 - Warning: link lacks "type" attribute
+line 14 column 5 - Warning: link lacks "type" attribute
+line 17 column 3 - Warning: <style> lacks "type" attribute
+line 17 column 3 - Warning: <style> isn't allowed in <body> elements
+line 49 column 5 - Warning: <auth-login> attribute ":token" has invalid value ""2dee72548b.aTomETcT6aef0lT1jyJWr82FR_ftWUgTE48qBlStU88.IwxSRlhFup_a5DeyvWMC3J31JK6fFQRrZ9ppdTaUa7sOfxBrAH651vW_EQ""
+line 49 column 5 - Warning: <auth-login> attribute ":login-logo-src" has invalid value ""\/web\/images\/ohrm_logo.png""
+line 49 column 5 - Warning: <auth-login> attribute ":login-banner-src" has invalid value ""\/web\/images\/ohrm_branding.png?v=1689053487449""
+line 49 column 5 - Warning: <auth-login> attribute ":show-social-media" has invalid value "true"
+line 49 column 5 - Warning: <auth-login> attribute ":is-demo-mode" has invalid value "true"
+line 49 column 5 - Error: <auth-login> is not recognized!
+line 49 column 5 - Warning: discarding unexpected <auth-login>
+line 56 column 5 - Error: <template> is not recognized!
+line 56 column 5 - Warning: discarding unexpected <template>
+line 58 column 13 - Error: <oxd-text> is not recognized!
+line 58 column 13 - Warning: discarding unexpected <oxd-text>
+line 58 column 75 - Warning: discarding unexpected </oxd-text>
+line 59 column 2 - Error: <oxd-text> is not recognized!
+line 59 column 2 - Warning: discarding unexpected <oxd-text>
+line 59 column 157 - Warning: discarding unexpected </oxd-text>
+line 61 column 1 - Warning: discarding unexpected </template>
+line 62 column 1 - Warning: discarding unexpected </auth-login>
+line 70 column 5 - Warning: <script> lacks "type" attribute
+line 71 column 5 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+24 warnings, 4 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+1704771297318,892,HTTP Request,200,OK,Thread Group2 2-1,text,true,,180557,1309,2,5,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp30xfR-MyLnuep0XPIzlXrM_vmBNJ5xV9uSxyTDfDl01O0OSbZ4YDbkUFRsvbLw3I6vTQbRHA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-285156224%3A1704771297530069,122,0,18
+1704771297318,122,HTTP Request-0,301,Moved Permanently,Thread Group2 2-1,text,true,,607,111,2,5,http://gmail.com/,122,0,18
+1704771297441,215,HTTP Request-1,302,Found,Thread Group2 2-1,text,true,,758,126,2,5,https://mail.google.com/mail/u/0/,215,0,95
+1704771297656,158,HTTP Request-2,302,Found,Thread Group2 2-1,text,true,,1651,261,2,5,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,158,0,108
+1704771297814,179,HTTP Request-3,302,Moved Temporarily,Thread Group2 2-1,text,true,,2063,349,2,5,https://accounts.google.com/InteractiveLogin?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&ifkv=ASKXGp2gn-Ic9e_jP_2NrgjTxYzS67UBHXTPKBkFn7R5cSNpWNfWVH3HLlDtSfaCK3jZ-i88g7gorA,179,0,0
+1704771297993,217,HTTP Request-4,200,OK,Thread Group2 2-1,text,true,,175478,462,2,5,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp30xfR-MyLnuep0XPIzlXrM_vmBNJ5xV9uSxyTDfDl01O0OSbZ4YDbkUFRsvbLw3I6vTQbRHA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-285156224%3A1704771297530069,114,0,0
+1704771297317,987,HTTP Request,200,OK,Thread Group1 1-1,text,true,,180484,1309,3,4,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp10wLtqvCuSVYcWQkGaSXt0r6PKO_DyYKTkdaTcUt9V7t1KJ2gbVchi3Xlj6HroOvjIbaPMEg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-401893456%3A1704771297707340,123,0,19
+1704771297317,123,HTTP Request-0,301,Moved Permanently,Thread Group1 1-1,text,true,,607,111,3,4,http://gmail.com/,123,0,19
+1704771297440,216,HTTP Request-1,302,Found,Thread Group1 1-1,text,true,,758,126,3,4,https://mail.google.com/mail/u/0/,216,0,98
+1704771297656,338,HTTP Request-2,302,Found,Thread Group1 1-1,text,true,,1651,261,3,4,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,338,0,119
+1704771297994,71,HTTP Request-3,302,Moved Temporarily,Thread Group1 1-1,text,true,,2063,349,3,4,https://accounts.google.com/InteractiveLogin?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&ifkv=ASKXGp1Y0ybxRyiy_KvsdNvmtP5B7ZuTTtzS9JBI95NulONKiTsiK_fnrcyqMQC5sJtCWpVh2U6-9g,71,0,0
+1704771298065,239,HTTP Request-4,200,OK,Thread Group1 1-1,text,true,,175405,462,3,4,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp10wLtqvCuSVYcWQkGaSXt0r6PKO_DyYKTkdaTcUt9V7t1KJ2gbVchi3Xlj6HroOvjIbaPMEg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-401893456%3A1704771297707340,124,0,0
+1704771297820,1061,HTTP Request,200,OK,Thread Group2 2-2,text,true,,181068,1308,1,3,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp0iWOEg7q6PRZ6ALwHU9U_Bd_QAkksQBJ-_Vk9rlcJ_wpXOvrQd4tBChA3NMJnqEwneRl-bmA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S151165456%3A1704771297979787,187,0,172
+1704771297820,187,HTTP Request-0,301,Moved Permanently,Thread Group2 2-2,text,true,,607,111,1,3,http://gmail.com/,187,0,172
+1704771298008,132,HTTP Request-1,302,Found,Thread Group2 2-2,text,true,,758,126,1,3,https://mail.google.com/mail/u/0/,132,0,73
+1704771298140,119,HTTP Request-2,302,Found,Thread Group2 2-2,text,true,,1651,261,1,3,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,119,0,65
+1704771298259,76,HTTP Request-3,302,Moved Temporarily,Thread Group2 2-2,text,true,,2061,349,1,3,https://accounts.google.com/InteractiveLogin?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&ifkv=ASKXGp3nr9Uavo4QEU-bhnnqpKP17s_1NBHAyqKm6AUdSgEF3kpcXl6PLMVsjxBFf8cA986YYi9_fA,76,0,0
+1704771298335,546,HTTP Request-4,200,OK,Thread Group2 2-2,text,true,,175991,461,1,3,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp0iWOEg7q6PRZ6ALwHU9U_Bd_QAkksQBJ-_Vk9rlcJ_wpXOvrQd4tBChA3NMJnqEwneRl-bmA&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S151165456%3A1704771297979787,134,0,0
+1704771297651,1245,HTTP Request,200,OK,Thread Group1 1-2,text,true,,180708,1308,2,2,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp080WF5sVX0-1lAkzHZUIuE0R1cHyDb5Hi1p4PqQHrSroMbNqlCBbxqQQBEXElPD6wLMhPg-Q&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S604164957%3A1704771297879012,61,0,14
+1704771297651,61,HTTP Request-0,301,Moved Permanently,Thread Group1 1-2,text,true,,607,111,2,2,http://gmail.com/,61,0,14
+1704771297712,281,HTTP Request-1,302,Found,Thread Group1 1-2,text,true,,758,126,2,2,https://mail.google.com/mail/u/0/,281,0,65
+1704771297994,164,HTTP Request-2,302,Found,Thread Group1 1-2,text,true,,1651,261,2,2,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,164,0,91
+1704771298158,81,HTTP Request-3,302,Moved Temporarily,Thread Group1 1-2,text,true,,2059,349,2,2,https://accounts.google.com/InteractiveLogin?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&ifkv=ASKXGp0RIWjcEcIKptngEyqj7pu5WM0D2sKYiBsg-8S0L3NY6WaOkoM8bejS6JktyG_vQb7nfTWFEA,81,0,0
+1704771298239,657,HTTP Request-4,200,OK,Thread Group1 1-2,text,true,,175633,461,2,2,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp080WF5sVX0-1lAkzHZUIuE0R1cHyDb5Hi1p4PqQHrSroMbNqlCBbxqQQBEXElPD6wLMhPg-Q&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S604164957%3A1704771297879012,223,0,0
+1704771297986,955,HTTP Request,200,OK,Thread Group1 1-3,text,true,,180485,1307,1,1,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp37BtRE_GhbskZ6xX4tzTsEyAYCP2YeFD9XSQDQnz-holxgV2xTAEAxdUWC2ZBQNi1STI0c&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1191938431%3A1704771298039414,50,0,15
+1704771297986,50,HTTP Request-0,301,Moved Permanently,Thread Group1 1-3,text,true,,607,111,1,1,http://gmail.com/,50,0,15
+1704771298037,142,HTTP Request-1,302,Found,Thread Group1 1-3,text,true,,758,126,1,1,https://mail.google.com/mail/u/0/,142,0,60
+1704771298179,151,HTTP Request-2,302,Found,Thread Group1 1-3,text,true,,1651,261,1,1,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,151,0,76
+1704771298330,139,HTTP Request-3,302,Moved Temporarily,Thread Group1 1-3,text,true,,2059,349,1,1,https://accounts.google.com/InteractiveLogin?continue=https://mail.google.com/mail/u/0/&emr=1&followup=https://mail.google.com/mail/u/0/&osid=1&passive=1209600&service=mail&ifkv=ASKXGp0qehD3J7smIXiJ9Se2O_x8CVZn6iVxrbNaRE8M0ENd8kPhkpD9zFB_Y4yUUUAgKsGU9Z3u_Q,139,0,0
+1704771298469,472,HTTP Request-4,200,OK,Thread Group1 1-3,text,true,,175410,460,1,1,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ASKXGp37BtRE_GhbskZ6xX4tzTsEyAYCP2YeFD9XSQDQnz-holxgV2xTAEAxdUWC2ZBQNi1STI0c&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1191938431%3A1704771298039414,309,0,0
